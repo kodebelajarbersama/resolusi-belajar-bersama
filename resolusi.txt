@@ -1,4 +1,4 @@
 resolusi:
-membuat akun youtube untuk share saat programming
 konsisten membuat video pemrograman 2x seminggu
 hasil kode pemrograman diuplaod ke github
+membuat akun instagram untuk video pendek coding
