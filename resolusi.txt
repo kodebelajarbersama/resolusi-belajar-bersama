@@ -1,0 +1,3 @@
+resolusi:
+konsisten membuat video pemrograman 2x seminggu
+hasil kode pemrograman diuplaod ke github
