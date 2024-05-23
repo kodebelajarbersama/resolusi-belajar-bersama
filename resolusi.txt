@@ -2,3 +2,4 @@ resolusi:
 konsisten membuat video pemrograman 2x seminggu
 hasil kode pemrograman diuplaod ke github
 membuat akun instagram untuk video pendek coding
+membuat proyek web undangan nikah
